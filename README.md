@@ -1,12 +1,12 @@
 # asfinuraizah-prakerja_hello_world
 About
-My HTML code to show text 'Hello Gais' in browser
+My HTML code to show text 'Hello Gaiss' in browser
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello Gais</title>
+    <title>Hello Gaiss</title>
   </head>
   <body>
-    <center><h1>Hello Gais</h1></center>
+    <center><h1>Hello Gaiss</h1></center>
   </body>
 </html>
